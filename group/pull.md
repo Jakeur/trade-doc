@@ -14,6 +14,7 @@ In option, you can request for a specific index (index=Z) and the number of prev
 **Code** : `200 OK`
 
 **Content examples** : In this example, the Group pulls the last index from the Marketplace ID 4 (crypto currency market : Bitcoin)
+* marketplace_id=4
 
 ```json
 {
@@ -23,7 +24,10 @@ In option, you can request for a specific index (index=Z) and the number of prev
 }
 ```
 
-In this example, the Group pulls 3 values (Count parameter) before the Index 112 from the Marketplace ID 3 (raw materiel market : Gold)
+In this example, the Group pulls 3 values (Count parameter) before the Index 112 from the Marketplace ID 2 (raw materiel market : Gold)
+* marketplace_id=2
+* count=3
+* index=112
 
 ```json
 [
