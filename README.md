@@ -8,18 +8,18 @@ During this period, if you find any bug or if the server crashes, we will do our
 For the event, the server will be reset at the beginning.
 
 Parameters at the beginning :
-..* Money : 10 000 euros
-..* Delay between 2 requests : 5 seconds
-..* Kick-out duration : 10 minutes
+* Money : 10 000 euros
+* Delay between 2 requests : 5 seconds
+* Kick-out duration : 10 minutes
 
 Don't spam the server or you will be kicked out.
 
 Marketplace IDs :
-..* 1 : Crypto-currency
-..* 2 : Raw materials
-..* 3 : Stock exchange
-..* 4 : Forex
-..* 5 : EPITECH (based on transactions done on 4 others marketplace)
+* 1 : Crypto-currency
+* 2 : Raw materials
+* 3 : Stock exchange
+* 4 : Forex
+* 5 : EPITECH (based on transactions done on 4 others marketplace)
 
 ## Login
 
