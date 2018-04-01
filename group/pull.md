@@ -20,7 +20,7 @@ In option, you can request for a specific index (index=Z) and the number of prev
 {
 	"marketplace": "bitcoin",
 	"position": 167,
-	"value": 8730
+	"value": 8730.0
 }
 ```
 
