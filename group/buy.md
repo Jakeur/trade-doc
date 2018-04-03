@@ -1,4 +1,4 @@
-# Sell stock
+# Buy stock
 
 Buy stocks from a marketplace
 
