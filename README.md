@@ -95,8 +95,8 @@ In option, you can request for a specific index (index=Z) and the number of prev
 
 **Code** : `200 OK`
 
-**Content examples** : In this example, the Group pulls the last index from the Marketplace ID 4 (crypto currency market : Bitcoin)
-* marketplace_id=4
+**Content examples** : In this example, the Group pulls the last index from the Marketplace ID 1 (crypto currency market : Bitcoin)
+* marketplace_id=1
 
 ```json
 {
@@ -155,7 +155,7 @@ Buy stocks from a marketplace
 	"marketplace": 2,
 	"action": "BUY",
 	"quantity": 8,
-	"price" : 1234
+	"price" : 1234.9
 }
 ```
 
@@ -183,6 +183,6 @@ Sell stocks to a marketplace
 	"marketplace": 3,
 	"action": "SELL",
 	"quantity": 10,
-	"price" : 4200
+	"price" : 4200.3
 }
 ```
