@@ -133,7 +133,7 @@ In this example, the Group pulls 3 values (Count parameter) before the Index 112
 
 \pagebreak
 
-# Sell stock
+# Buy stock
 
 Buy stocks from a marketplace
 
@@ -159,7 +159,7 @@ Buy stocks from a marketplace
 }
 ```
 
-/pagebreak
+\pagebreak
 
 # Sell stock
 
